@@ -1,11 +1,12 @@
+# Home Credit Default Risk Prediction
 
----
-
-## Comprehensive Dataset Description
-
-This dataset provides a rich collection of information designed to help predict loan repayment abilities. It's structured across several interconnected tables, each offering a unique perspective on applicant behavior and financial history.
+This repository contains resources for the Home Credit Default Risk Kaggle competition. The goal is to predict whether a client will default on their loan based on various financial and personal information.
 
 **You can access the full dataset directly on Kaggle here:** [Home Credit Default Risk Kaggle Competition](https://www.kaggle.com/competitions/home-credit-default-risk)
+
+## Dataset Description
+
+This dataset provides a rich collection of information designed to help predict loan repayment abilities. It's structured across several interconnected tables, each offering a unique perspective on applicant behavior and financial history.
 
 ---
 
@@ -54,5 +55,13 @@ Providing a detailed **repayment history** for previously disbursed Home Credit 
 ### `HomeCredit_columns_description.csv`
 
 This helpful auxiliary file serves as a **data dictionary**, providing clear and concise **descriptions for all columns** across the various data tables. It's an essential resource for anyone working with the dataset, ensuring a thorough understanding of each variable's meaning and context.
+
+---
+
+## Data Schema
+
+Below is an image illustrating the relationships and structure of the various tables in this dataset. This visual representation can help in understanding how different pieces of information are connected.
+
+![Data Schema](home_credit_image.png)
 
 ---
